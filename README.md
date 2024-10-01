@@ -1,2 +1,2 @@
-# simple-calculate-making-js
-simple calculate making js
+# simple-calculator-making-js
+simple calculator making js
